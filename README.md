@@ -1,0 +1,2 @@
+# algoritmik-masalalar
+masalalar
