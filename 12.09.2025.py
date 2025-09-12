@@ -1,7 +1,6 @@
 ## 1
 # ism = 'Rasulbek'
 # print('salom', ism, '!')
-from traceback import print_tb
 
 ## 2
 # yosh = 15
